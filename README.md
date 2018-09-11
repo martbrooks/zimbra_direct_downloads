@@ -1,6 +1,45 @@
 ## Direct download locations for Zimbra Collaboration Server Open Source Edition
 
 
+### 8.8.9 GA Release
+
+Release notes: https://wiki.zimbra.com/wiki/Zimbra_Releases/8.8.9  
+3rd Party Open Source Licenses: https://files.zimbra.com/website/docs/8.8/open_source_licenses_8.8.txt  
+Windows Open Source Licenses: https://files.zimbra.com/website/docs/8.8/open_source_licenses_zcs-%20windows_8.8.txt  
+
+RHEL 6: https://files.zimbra.com/downloads/8.8.9_GA/zcs-8.8.9_GA_3019.RHEL6_64.20180809160254.tgz  
+MD5: https://files.zimbra.com/downloads/8.8.9_GA/zcs-8.8.9_GA_3019.RHEL6_64.20180809160254.tgz.md5  
+SHA256: https://files.zimbra.com/downloads/8.8.9_GA/zcs-8.8.9_GA_3019.RHEL6_64.20180809160254.tgz.sha256  
+
+CentOS 6: https://files.zimbra.com/downloads/8.8.9_GA/zcs-8.8.9_GA_3019.RHEL6_64.20180809160254.tgz  
+MD5: https://files.zimbra.com/downloads/8.8.9_GA/zcs-8.8.9_GA_3019.RHEL6_64.20180809160254.tgz.md5  
+SHA256: https://files.zimbra.com/downloads/8.8.9_GA/zcs-8.8.9_GA_3019.RHEL6_64.20180809160254.tgz.sha256  
+
+Oracle Linux 6: https://files.zimbra.com/downloads/8.8.9_GA/zcs-8.8.9_GA_3019.RHEL6_64.20180809160254.tgz  
+MD5: https://files.zimbra.com/downloads/8.8.9_GA/zcs-8.8.9_GA_3019.RHEL6_64.20180809160254.tgz.md5  
+SHA256: https://files.zimbra.com/downloads/8.8.9_GA/zcs-8.8.9_GA_3019.RHEL6_64.20180809160254.tgz.sha256  
+
+RHEL 7: https://files.zimbra.com/downloads/8.8.9_GA/zcs-8.8.9_GA_3019.RHEL7_64.20180809160254.tgz  
+MD5: https://files.zimbra.com/downloads/8.8.9_GA/zcs-8.8.9_GA_3019.RHEL7_64.20180809160254.tgz.md5  
+SHA256: https://files.zimbra.com/downloads/8.8.9_GA/zcs-8.8.9_GA_3019.RHEL7_64.20180809160254.tgz.sha256  
+
+CentOS 7: https://files.zimbra.com/downloads/8.8.9_GA/zcs-8.8.9_GA_3019.RHEL7_64.20180809160254.tgz  
+MD5: https://files.zimbra.com/downloads/8.8.9_GA/zcs-8.8.9_GA_3019.RHEL7_64.20180809160254.tgz.md5  
+SHA256: https://files.zimbra.com/downloads/8.8.9_GA/zcs-8.8.9_GA_3019.RHEL7_64.20180809160254.tgz.sha256  
+
+Oracle Linux 7: https://files.zimbra.com/downloads/8.8.9_GA/zcs-8.8.9_GA_3019.RHEL7_64.20180809160254.tgz  
+MD5: https://files.zimbra.com/downloads/8.8.9_GA/zcs-8.8.9_GA_3019.RHEL7_64.20180809160254.tgz.md5  
+SHA256: https://files.zimbra.com/downloads/8.8.9_GA/zcs-8.8.9_GA_3019.RHEL7_64.20180809160254.tgz.sha256  
+
+Ubuntu 14.04 LTS: https://files.zimbra.com/downloads/8.8.9_GA/zcs-8.8.9_GA_3019.UBUNTU14_64.20180809160254.tgz  
+MD5: https://files.zimbra.com/downloads/8.8.9_GA/zcs-8.8.9_GA_3019.UBUNTU14_64.20180809160254.tgz.md5  
+SHA256: https://files.zimbra.com/downloads/8.8.9_GA/zcs-8.8.9_GA_3019.UBUNTU14_64.20180809160254.tgz.sha256  
+
+Ubuntu 16.04 LTS: https://files.zimbra.com/downloads/8.8.9_GA/zcs-8.8.9_GA_3019.UBUNTU16_64.20180809160254.tgz  
+MD5: https://files.zimbra.com/downloads/8.8.9_GA/zcs-8.8.9_GA_3019.UBUNTU16_64.20180809160254.tgz.md5  
+SHA256: https://files.zimbra.com/downloads/8.8.9_GA/zcs-8.8.9_GA_3019.UBUNTU16_64.20180809160254.tgz.sha256  
+
+
 ### 8.8.8 GA Release
 
 Release notes: https://wiki.zimbra.com/wiki/Zimbra_Releases/8.8.8  
